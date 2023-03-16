@@ -10,7 +10,7 @@
 - [x] 🔥 New feature :
     - [+] ⚡️ Added `file renaming` feature ⚡️
       - super premium repo...
-    - [+] ⚡️ Support 2GB + Files ⚡️
+    - [+] ⚡️ Support 4GB + Files ⚡️
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
